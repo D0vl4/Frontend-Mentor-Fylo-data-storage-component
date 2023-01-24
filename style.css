@@ -30,7 +30,7 @@ body {
     gap: 1rem;
     width: 27rem;
     height: 48rem;
-    background-image: url("/Data storage - practice/images/bg-mobile.png");
+    background-image: url("./images/bg-mobile.png");
     background-repeat: no-repeat;
 }
 
@@ -42,7 +42,7 @@ body {
         gap: 3rem;
         width: 103rem;
         height: 57rem;
-        background-image: url("/Data storage - practice/images/bg-desktop.png");
+        background-image: url("./images/bg-desktop.png");
         background-color: var(--very-dark-blue);
         background-repeat: no-repeat;
         background-position: center bottom;
