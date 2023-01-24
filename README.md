@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/fylo-data-storage-component-cCsYeF07U3)
+- Live Site URL: [Click here](https://verdant-lollipop-309c2f.netlify.app)
 
 ## My process
 
